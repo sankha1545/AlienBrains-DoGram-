@@ -7,16 +7,16 @@ import FriendsPage from './FriendsPage';
 import NotificationsPage from './notificationspage'; 
 import ProfilePage from './profilepage'; 
 import { MaterialIcons, FontAwesome5, Ionicons, Feather } from "@expo/vector-icons";
-import VerticalScrollbar from '../../components/Scrollbar';
 
 
- // Import the slider
+
+ 
 const Tab = createBottomTabNavigator();
 
 const HomePage = () => {
   return (
     
-    <Tab.Navigator 
+    <Tab.Navigator {/*this basically creates the bottom tabbar where we*/}
     screenOptions={({ route }) => ({
       tabBarIcon: ({ color, size }) => {
        

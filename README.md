@@ -1,4 +1,4 @@
-# Do Gram 🐾 | A Facebook Clone Built with React Native & Expo  
+# Do Gram 🐾 | A Facbook like application Built with React Native & Expo  
 
 Do Gram is a **React Native Expo**-based social media application designed to replicate the core functionalities of Facebook. It offers an intuitive user experience with features such as **stories, reactions, comments, and sharing**, making it an engaging platform for social interactions.  
 

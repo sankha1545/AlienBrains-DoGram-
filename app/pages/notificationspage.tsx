@@ -3,7 +3,7 @@ import { View, Text, StyleSheet, FlatList, TouchableOpacity, Modal } from "react
 import { Ionicons } from "@expo/vector-icons";
 
 const NotificationsPage = () => {
-  // Sample notifications data
+  // Sample data for notifications
   const notificationsData = [
     { id: "1", title: "New comment on your post", message: "Alice commented: 'Great post!'", time: "2 mins ago" },
     { id: "2", title: "New friend request", message: "Bob sent you a friend request", time: "10 mins ago" },
